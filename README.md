@@ -1,0 +1,2 @@
+# Determine_the_preferences_of_F9_airline_users
+Опеределить предпочтения пользователей авиакомпании F9
